@@ -1,0 +1,33 @@
+Concepts Used:
+
+- Spring Boot
+- MySQL
+- Spring form validations
+- Java script methods (In some of the JSP files)
+- Custom queries (native queries) 
+- CSS styling
+
+
+Team Responsibilities:
+
+Bhuvaneshwari B Hangaragi -> Everything except look and feel of the application 
+ 
+Kishore Macha -> Looks and feel of the entire application 
+
+Vivek Vishwakarma -> 
+
+1. Class Diagram of entities /models
+2. Entity model class source code
+3. Converted mutiple JSPs into Spring form format
+4. Added mapper class for mutiple functionalities
+5. Convert the project into Spring Boot format.
+6. Worked on InvestorHome.jsp but last moment we had the entire UI getting updated.
+7. Jenkins file
+8. Docker file
+
+Abhishek Sharma-->
+
+1. Class Diagram of entities /models
+2. Client side validations in all JSPs using java script
+3. GenerateCommissionReport JSP and GenerateCommissionReportDetails JSP
+4. Mapping methods for commission report in BackOfficeController and BackOfficerServiceImplementation (investorprofileEntityToInvestorProfileDTO, fetchEachCompanyTitleForSellShares)
